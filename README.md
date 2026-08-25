@@ -6,8 +6,7 @@ Soluções dos 30 exercícios sobre busca sequencial e busca binária. Os algori
 
 - `exercicios/`: um programa independente para cada questão;
 - `algoritmos.py`: funções reutilizáveis de busca implementadas manualmente;
-- `testes/`: testes automatizados das funções centrais;
-- `REFLEXAO.md`: resposta ao desafio de reflexão.
+- `testes/`: testes automatizados das funções centrais.
 
 ## Como executar
 
@@ -25,3 +24,4 @@ python -m unittest discover -s testes -v
 ```
 
 Observação: as posições mostradas ao usuário começam em 1. Os índices retornados pelas funções começam em 0, seguindo a convenção do Python.
+
